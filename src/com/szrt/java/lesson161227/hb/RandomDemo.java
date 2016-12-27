@@ -6,7 +6,9 @@ public class RandomDemo {
 	
 	@Test
 	public void testName() throws Exception {
-		
+		/**
+		 * 111
+		 */
 		//初始化数组
 		int len=11;
 		String[] class1612=new String[len]; 
