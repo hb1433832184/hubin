@@ -8,6 +8,7 @@ public class RandomDemo {
 	public void testName() throws Exception {
 		/**
 		 * 111
+		 * 222222222
 		 */
 		//初始化数组
 		int len=11;
